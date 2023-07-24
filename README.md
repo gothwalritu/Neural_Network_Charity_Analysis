@@ -6,8 +6,8 @@
 
 ## Overview and Objective
 
-In this module we learnt about the neural networks and we are going to use these skills to help the “Alphabet Soup Charity Foundation” to find the right investment opportunities. With the application of machine learning and neural networks on the dataset  provided, we developed a classifier model that can predict if the applicants will be successful for not if funded by the Alhabet Soup.
-In this module we used the following resources:
+In this module I learnt about the neural networks and I am going to use these skills to help the “Alphabet Soup Charity Foundation” to find the right investment opportunities. With the application of machine learning and neural networks on the dataset  provided, I developed a classifier model that can predict if the applicants will be successful for not if funded by the Alhabet Soup.
+In this module I used the following resources:
 
 •	Scikit-Learn
 
